@@ -4,6 +4,6 @@ All notable changes to the "django-test-runner" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## 0.0.1 - 2026-04-24
 
 - Initial release
